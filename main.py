@@ -7,7 +7,7 @@ One original line roasting a gadget the writer uses every day, written to
 import os
 import sys
 
-LINE = "My phone says storage is full, then suggests I delete the photos of my own children to make room for its own update."
+LINE = "My smartwatch congratulated me on closing my rings, then reminded me I have been sitting for so long my legs filed for unemployment."
 
 MAX_CHARS = 200
 
